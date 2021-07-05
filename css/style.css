@@ -76,4 +76,22 @@ body{
     background-position: left;
 }
 
+#bottom_left{
+    border-left: 7px solid;
+    border-image: linear-gradient(#00ffcd,#cd0ee6,#0700ff);
+    border-image-slice: 1;
+}
+
+#bottom_right{
+    border-left: 7px solid;
+    border-image: linear-gradient(#ff0017,#b91c1c,#ac17a4);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+
+}
+
+
 
