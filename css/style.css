@@ -58,3 +58,22 @@ body{
     padding-right: 100px;
     margin-bottom: 30px;
 }
+
+
+
+.bottom_half{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: -4px 8px 16px 0px rgba(0,0,0,0.52);
+    padding: 35px;
+    
+}
+
+.experience_area{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
